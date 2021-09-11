@@ -1,0 +1,13 @@
+1.0.0 (28/02/20)
+- O uno sai da fase de testes
+
+1.1.0 (29/02/20)
+- Foi adicionado a feature "combo de compra" que permite que o jogador
+se defenda de ataques de compra se tiver o mesmo tipo de carta que atacaram
+nele
+- Foi adicionado um aviso que mostra a carta atual por texto sempre que é comprado
+uma nova
+- Foi adicionado uma tabela que mostra o número de cartas dos jogadores sempre
+que é a vez de outra pessoa
+- Foi adicionado a feature de ser retirado do jogo, quando o jogador tem mais
+de 64 cartas
